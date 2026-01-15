@@ -36,7 +36,7 @@ order: 4
 - **React**
 - **Vue 3 (Composition API)**
 - **TypeScript**
-- **Pinia**
+- Pinia
 - **Tailwind CSS**
 - Vite
 
@@ -48,8 +48,8 @@ order: 4
 - Node.js
 - Express
 - MongoDB
-- CI/CD 자동화 경험
-
+- CI/CD 자동화 경험  
+<br>
 > 실무에서는 Vue 기반 Admin 시스템을 주력으로 사용해왔으며,  
 > React/Next.js는 프로젝트 및 개인 학습을 통해 활용 경험이 있습니다.
 

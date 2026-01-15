@@ -4,5 +4,63 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+## 안녕하세요 👋  
+운영 환경과 사용자 흐름을 고려해 문제를 구조로 해결하는 프론트엔드 개발자 전수진입니다.
+
+
+단순히 화면을 구현하는 것보다,  
+**왜 이 기능이 필요한지**, **현재 구조가 서비스 운영과 사용자 경험에 어떤 영향을 주는지**를 먼저 고민합니다.  
+반복되는 CS나 비효율적인 흐름을 발견하면, 이를 기술적으로 정리하고 개선하는 방향을 선호합니다.
+
+---
+
+## What I Do
+
+스타트업 환경에서  
+점주용(B2C) · 사내용(B2B) **Admin 시스템**을 중심으로  
+기획부터 개발, 배포, 운영까지 전 과정에 참여해왔습니다.
+
+- 실사용자 피드백과 CS 데이터를 기반으로 한 기능 개선
+- 서비스 구조 이해를 바탕으로 한 주도적인 개발
+- 운영 효율을 높이기 위한 구조 설계 및 자동화 경험
+
+특히 **운영 관점에서의 프론트엔드 역할**에 대해 많이 고민해왔고,  
+단기적인 구현보다 장기적인 유지보수와 확장성을 중요하게 생각합니다.
+
+---
+
+### 🛠️ Tech Stack
+
+#### Frontend
+- **React**
+- **Vue 3 (Composition API)**
+- **TypeScript**
+- **Pinia**
+- **Tailwind CSS**
+- Vite
+
+#### Also Experienced With
+- **Next.js**
+- Redux, Zustand
+
+##### Backend / Infra (협업 및 실무 경험)
+- Node.js
+- Express
+- MongoDB
+- CI/CD 자동화 경험
+
+> 실무에서는 Vue 기반 Admin 시스템을 주력으로 사용해왔으며,  
+> React/Next.js는 프로젝트 및 개인 학습을 통해 활용 경험이 있습니다.
+
+---
+
+
+## This Blog
+
+이 블로그는  
+실무에서의 경험과 고민을 정리하고,  
+더 나은 선택을 하기 위해 기록하는 공간입니다.
+
+완성보다 **과정과 사고의 흔적**을 남기는 것을 목표로 합니다.
+
